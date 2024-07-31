@@ -1,5 +1,5 @@
-# SalruberM1_EM1_recovery
-Code repository for "Episomal virus maintenance enables bacterial population recovery from infection and virus-bacterial coexistence"
+
+# Code repository for "Episomal virus maintenance enables bacterial population recovery from infection and virus-bacterial coexistence"
 
 *By Akash Arani, 2024*
 
