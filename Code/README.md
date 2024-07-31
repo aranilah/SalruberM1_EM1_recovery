@@ -18,7 +18,7 @@ You will need python packages numpy, matplotlib, scipy, math, pandas, and statis
 
 Contains the most up-to-date version fo the manuscript.
 
-## Experimental Data 
+### Experimental Data 
 
 Contains data for MOI infection experiment (Fig 3c), one step growth curve, adsoprtion data to find the adsoprtion rate, and the MOI dependent adsoprtion data 
 
