@@ -17,6 +17,11 @@ You will need python packages numpy, matplotlib, scipy, math, pandas, and statis
 ### Code
 
 Contains the most up-to-date version fo the manuscript.
+| Figure | Python Notebook | Cells to Run |
+|--------|-----------------|--------------|
+| Fig5a | main.ipynb | 18, |
+| Figure | Python Notebook | Cells to Run |
+
 
 ### Experimental Data 
 
