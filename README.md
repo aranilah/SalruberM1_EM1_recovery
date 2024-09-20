@@ -16,7 +16,7 @@ You will need python packages numpy, matplotlib, scipy, math, pandas, and statis
 
 ### Code
 
-Contains the most up-to-date version fo the manuscript.
+Contains the most up-to-date version of the manuscript.
 
 ### Experimental Data 
 
