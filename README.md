@@ -1,6 +1,6 @@
 
-# Code repository for "Episomal virus maintenance enables bacterial population recovery from infection and virus-bacterial coexistence"
-
+# Code repository for "Episomal virus maintenance enables bacterial population recovery from infection and promotes virus-bacterial coexistence"
+https://doi.org/10.1093/ismejo/wraf066
 *By Akash Arani, 2024*
 
 ## General Description
